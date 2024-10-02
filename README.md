@@ -1,5 +1,8 @@
 ﻿# BootStrap-POS
 
+# Mockup Diagram
+https://www.figma.com/design/l0MFGQjFAdOaJhXaUKm47C/Pos-System?node-id=17-416&t=3HGENmcBaFlfyZ8i-1
+
 # Site Map
 ![image](https://github.com/user-attachments/assets/c0ffd133-f485-4246-b2c8-afbf63af8ba3)
 
@@ -10,5 +13,4 @@
 ![image](https://github.com/user-attachments/assets/4c314b87-7fc8-40ef-8399-29e922568f6a)
 ![image](https://github.com/user-attachments/assets/373f2d9c-1f69-4c7c-8088-0b01f9dd0c4d)
 
-# Mockup Diagram
-https://www.figma.com/design/l0MFGQjFAdOaJhXaUKm47C/Pos-System?node-id=17-416&t=3HGENmcBaFlfyZ8i-1
+
